@@ -1,0 +1,120 @@
+{
+    "basics": {
+        "name": "Lakshya Gupta",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2048@iiitkota.ac.in",
+        "phone": "+919369935710",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication engineering. Building awesome animations on blender software and building PCB designs for different circuits. I have enthusiasm in making different PCB designs",
+        "location": {
+            "address": "Prayagraj",
+            "postalCode": "211006",
+            "city": "Prayagraj",
+            "countryCode": " India",
+            "region": "Uttar  Pradesh"
+        },
+        "profiles": [
+           
+            {
+                "network": "Github",
+                "username": "LAKSHYA123GUPTA",
+                "url": "https://www.github.com/LAKSHYA123GUPTA"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": " ",
+            "position": " ",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": " ",
+            "position": " ",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "."
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the Website of e-Learning And Data Analytics Lab, IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "1341st Rank in Kick Start 2021",
+            "awarder": "Google",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            
+        }
+    ],
+    "skills": [
+        {
+            "name": "Working ON",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "robotics creativity",
+            "keywords": [
+                "EasyEDA"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
